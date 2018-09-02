@@ -1,6 +1,6 @@
-The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.
+# The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.
 
-Objectives
+## Objectives
 
 Create a new project folder and connect it to a github repository. Copy this README.md file into it.
 
